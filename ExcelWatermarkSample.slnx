@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/ExcelWatermarkSample/ExcelWatermarkSample.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExcelWatermarkSample.Tests/ExcelWatermarkSample.Tests.csproj" />
+  </Folder>
+</Solution>
